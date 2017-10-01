@@ -15,7 +15,7 @@
 - Replaced the hardcoded value of 50 to an integer constant for MAX_QUALITY
 
 
-![Code Coverage](https://github.com/digs76in/refactoringkata/code-coverage.png)
+![Code Coverage](https://github.com/digs76in/refactoringkata/blob/master/code-coverage.png)
 
-![Test Results](https://github.com/digs76in/refactoringkata/test-results.png)
+![Test Results](https://github.com/digs76in/refactoringkata/blob/master/test-results.png)
 
