@@ -19,3 +19,6 @@
 
 ![Test Results](https://github.com/digs76in/refactoringkata/blob/master/test-results.png)
 
+![Youtube Video Link] (https://youtu.be/hDJhJA0cKYU)
+
+
