@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48e8fbd2-dd44-4798-8931-c2f3e337b0cc" name="Default" comment="" />
+    <list default="true" id="48e8fbd2-dd44-4798-8931-c2f3e337b0cc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" afterPath="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/refactoringkata$GildedRoseTest.coverage" NAME="GildedRoseTest Coverage Results" MODIFIED="1506286185560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/refactoringkata$GildedRoseTest.coverage" NAME="GildedRoseTest Coverage Results" MODIFIED="1506891825436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>com.gildedrose.*</FILTER>
     </SUITE>
   </component>
@@ -28,12 +33,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GildedRoseTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GildedRoseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="88" column="23" lean-forward="false" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="505">
+              <caret line="147" column="22" lean-forward="false" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+              <folding>
+                <element signature="method#foo#0;class#GildedRoseTest#0" expanded="false" />
+                <element signature="method#foo2#0;class#GildedRoseTest#0" expanded="false" />
+                <element signature="method#sulfuras#0;class#GildedRoseTest#0" expanded="false" />
+                <element signature="method#sulfuras2#0;class#GildedRoseTest#0" expanded="false" />
+                <element signature="method#brie#0;class#GildedRoseTest#0" expanded="false" />
+                <element signature="method#brie2#0;class#GildedRoseTest#0" expanded="false" />
+                <element signature="method#passes#0;class#GildedRoseTest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="276">
+                <caret line="19" column="72" lean-forward="false" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -51,8 +77,8 @@
       <file leaf-file-name="GildedRose.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+            <state relative-caret-position="460">
+              <caret line="65" column="54" lean-forward="false" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -73,6 +99,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -82,6 +111,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -99,10 +130,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="11" />
     <option name="y" value="23" />
     <option name="width" value="1333" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -327,64 +360,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506282714119</updated>
-      <workItem from="1506282719868" duration="4397000" />
+      <workItem from="1506282719868" duration="9009000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 40m 23s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 16h 31m 48s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 40m 41s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 16h 41m 04s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 40m 48s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 16h 45m 59s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 42m 22s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 16h 48m 40s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 44m 56s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 16h 51m 16s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 45m 04s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 16h 51m 55s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 47m 18s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 16h 57m 34s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 48m 03s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 17h 00m 32s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 48m 17s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 17h 03m 48s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GildedRoseTest - 2017.09.24 at 16h 49m 47s.xml">
+    <history-entry file="GildedRoseTest - 2017.10.01 at 17h 06m 10s.xml">
       <configuration name="GildedRoseTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4397000" />
+    <option name="totallyTimeSpent" value="9009000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1333" height="777" extended-state="0" />
-    <editor active="true" />
+    <frame x="11" y="23" width="1333" height="777" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43546098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4636159" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28657165" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10652663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17104276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -440,19 +472,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="147" column="22" lean-forward="false" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+          <folding>
+            <element signature="method#foo#0;class#GildedRoseTest#0" expanded="false" />
+            <element signature="method#foo2#0;class#GildedRoseTest#0" expanded="false" />
+            <element signature="method#sulfuras#0;class#GildedRoseTest#0" expanded="false" />
+            <element signature="method#sulfuras2#0;class#GildedRoseTest#0" expanded="false" />
+            <element signature="method#brie#0;class#GildedRoseTest#0" expanded="false" />
+            <element signature="method#brie2#0;class#GildedRoseTest#0" expanded="false" />
+            <element signature="method#passes#0;class#GildedRoseTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gildedrose/GildedRose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        <state relative-caret-position="460">
+          <caret line="65" column="54" lean-forward="false" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gildedrose/GildedRoseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="88" column="23" lean-forward="false" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="19" column="72" lean-forward="false" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
